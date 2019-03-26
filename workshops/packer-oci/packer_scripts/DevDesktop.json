@@ -4,7 +4,7 @@
       "my.fingerprint":"pasteYourFingprint",
       "my.availability_domain": "pasteYourAvailbilityDomain",
       "my.region": "us-ashburn-1",
-      "my.compartment_ocid": "pasteYourCompartmentOCID",
-      "my.subnet_ocid": "pasteYourSubnetsOCID",
+      "my.compartment_ocid": "ocid1.compartment.oc1..aaaaaaaakn7l3r24mnvuzoacht6n35de7ytugtwpffmorkmbyc7g5hwr6p4q",
+      "my.subnet_ocid": "ocid1.subnet.oc1.iad.aaaaaaaafyk3xgzgkk6w35mcs2ly4dg6zl46q36gffvmydgyignqjsunodva",
       "my.base_image_ocid": "ocid1.image.oc1.iad.aaaaaaaarsu56scul4muz3sqbptvykipy2rn6re3wzdjvncgcpgqt5cp3wja"
     }
